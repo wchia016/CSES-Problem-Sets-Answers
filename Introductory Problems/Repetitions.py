@@ -4,9 +4,7 @@ Created on Sat Jun 20 18:28:05 2020
 
 @author: Wei Fong
 """
-#dna_str = 'AAAAAAAAAA'
-#dna_str = 'AAAACCCGGT'
-#dna_str = 'ACCGGGTTTT'
+
 dna_str=input()
 
 count_list = []
